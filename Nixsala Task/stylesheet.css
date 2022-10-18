@@ -1,0 +1,25 @@
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+  }
+
+div.a{
+    text-align: center;
+
+}
+
+tr.b{
+    background-color: coral;
+}
+
+td.vu{
+    input-security: text;
+
+}
+
+td {text-align: center;
+}
+
+td.iu{
+    height: 40px;
+}
